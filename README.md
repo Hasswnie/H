@@ -1,2 +1,3 @@
-# H
-Have a good 
+ubuntu-latest 
+workflow_dispatch
+
